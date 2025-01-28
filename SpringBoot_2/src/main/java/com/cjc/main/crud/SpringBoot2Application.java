@@ -10,7 +10,7 @@ public class SpringBoot2Application {
 		System.out.println("Sushant khilare");
 		System.out.println("Hemant sarkge");
 		System.out.println("Chetan patil");
-		System.out.println("Chetan patil");
+	
 		
 		SpringApplication.run(SpringBoot2Application.class, args);
 	}
